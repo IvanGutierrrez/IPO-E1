@@ -1,6 +1,17 @@
-.examples-crear-esquema,
-.examples-crear-esquema * {
+.frame-41,
+.frame-41 * {
   box-sizing: border-box;
+}
+.frame-41 {
+  height: 904px;
+  position: relative;
+}
+.frame-23 {
+  width: 1206px;
+  height: 904px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
 .examples-crear-esquema {
   background: var(--schemes-surface, #fef7ff);
@@ -9,8 +20,11 @@
   border-color: var(--schemes-outline-variant, #cac4d0);
   border-width: 8px;
   padding: 10px;
+  width: 1206px;
   height: 904px;
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 0px;
   overflow: hidden;
 }
 .navigation-rail {
@@ -800,4 +814,67 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.arrow-left-circle {
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 85px;
+  top: 219px;
+  overflow: visible;
+}
+.arrow-forward {
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 1108px;
+  top: 639px;
+  overflow: visible;
+}
+.plus-circle {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 726px;
+  top: 580px;
+  overflow: visible;
+}
+.plus-circle2 {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 963px;
+  top: 365px;
+  overflow: visible;
+}
+.plus-circle3 {
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 1115px;
+  top: 317px;
+  overflow: visible;
+}
+.arrow-back {
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 1108px;
+  top: 691px;
+  overflow: visible;
+}
+.button2 {
+  background: var(--schemes-primary, #65558f);
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 129px;
+  height: 64px;
+  position: absolute;
+  left: 85px;
+  top: 771px;
+  overflow: hidden;
 }
