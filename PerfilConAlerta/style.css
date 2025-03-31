@@ -151,6 +151,7 @@
   height: 24px;
   position: relative;
   overflow: visible;
+  transform: scaleX(-1);
 }
 .frame-4 {
   display: flex;

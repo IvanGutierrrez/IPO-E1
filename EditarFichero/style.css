@@ -1,10 +1,17 @@
-.frame-20,
-.frame-20 * {
+.frame-46,
+.frame-46 * {
   box-sizing: border-box;
 }
-.frame-20 {
+.frame-46 {
   height: 904px;
   position: relative;
+}
+.frame-20 {
+  width: 1206px;
+  height: 904px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
 .examples-edici-n-texto {
   background: var(--schemes-surface, #fef7ff);
@@ -548,7 +555,7 @@
   position: absolute;
   left: 427px;
   top: 751px;
-  width: 1042px;
+  width: 379px;
   height: 68px;
 }
 .chat-bubble2 {
