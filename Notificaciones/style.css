@@ -876,3 +876,15 @@
   font-weight: var(--m3-label-large-font-weight, 500);
   position: relative;
 }
+.label-text2 {
+  transform: translateX(-5px);
+}
+.image-7 {
+  transform: translateY(-14px); 
+}
+.notifications {
+  transform: translateY(-6px); 
+}
+.image-5{
+  transform: translateX(-2px);
+}
