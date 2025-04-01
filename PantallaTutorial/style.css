@@ -1122,3 +1122,26 @@
   top: 256px;
   overflow: visible;
 }
+.building-blocks-menu-list-item {
+  transform: translate(-30px,-4px);
+  
+}
+.notifications{
+  transform: translateY(+15px);
+}
+.image-7{
+  
+  transform: translate(+19px,+1px);
+}
+.icon4{
+  transform: translateY(+12px);
+}
+.icon9{
+  transform: translateX(+12px);
+}
+.icon11{
+  transform: translateY(-12px);
+}
+.image-5{
+  transform: translateX(-3px);
+}

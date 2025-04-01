@@ -732,3 +732,16 @@
   align-items: center;
   justify-content: center;
 }
+.chat-bubble3 {
+  transform: translateY(-55px);
+}
+.notifications{
+  transform: translateY(+15px);
+}
+.image-7{
+  
+  transform: translate(+19px,+1px);
+}
+.icon{
+  transform: translateY(+15px);
+}
