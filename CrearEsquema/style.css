@@ -989,3 +989,11 @@
 .circle4{
   transform: translateY(0.9em)
 }
+
+.icon5{
+  transform: translate(-1em, 0.3em);
+}
+
+.badges{
+  transform: translate(-1em, -0.7em);
+}

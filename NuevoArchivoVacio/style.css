@@ -600,3 +600,7 @@
 .image-7{
   transform: translateY(-0.5em)
 }
+
+.badges{
+  transform: translate(-0.6em, -0.7em);
+}

@@ -1094,6 +1094,22 @@
   aspect-ratio: 1;
 }
 
+#mov{
+  transform: translateX(-0.5em)
+}
+
 .image-7{
+  transform: translateY(-0.5em)
+}
+
+.image-10{
+  transform: translateY(-0.5em)
+}
+
+.image-11{
+  transform: translateY(-0.5em)
+}
+
+.image-13{
   transform: translateY(-0.5em)
 }

@@ -1177,3 +1177,15 @@
   top: 628px;
   overflow: hidden;
 }
+
+.icon5{
+  transform: translate(-1em, 0.3em);
+}
+
+.badges{
+  transform: translate(-0.2em, -0.3em);
+}
+
+.navigate-next2{
+  transform: translateX(4em);
+}

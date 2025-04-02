@@ -552,3 +552,16 @@
   top: 128px;
   overflow: visible;
 }
+
+
+.image-7{
+  transform: translateY(-0.5em)
+}
+
+.badges{
+  transform: translate(-0.5em, -0.5em);
+}
+
+.notifications{
+  transform: translate(-0.5em, -0.5em);
+}

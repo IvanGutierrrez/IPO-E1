@@ -673,3 +673,15 @@
   top: 50px;
   overflow: visible;
 }
+
+.image-7{
+  transform: translateY(-0.5em);
+}
+
+.icon5{
+  transform: translate(-1em, 0.3em);
+}
+
+.badges{
+  transform: translate(-0.6em, -0.7em);
+}

@@ -851,3 +851,15 @@
 .image-7{
   transform: translateY(-0.5em)
 }
+
+.icon5{
+  transform: translate(-1em, 0.3em);
+}
+
+.badges{
+  transform: translate(-0.6em, -0.7em);
+}
+
+.share2{
+  transform: translate(0.5em, -0.5em);
+}
