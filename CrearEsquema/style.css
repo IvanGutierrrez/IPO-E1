@@ -965,3 +965,27 @@
 .image-7{
   transform: translateY(-0.5em)
 }
+
+.bold{
+  transform: translateY(1em)
+}
+
+.arrow-left-circle{
+  transform: translateY(0.6em)
+}
+
+.minimize{
+  transform: translateY(0.9em)
+}
+.circle{
+  transform: translateY(0.9em)
+}
+.circle2{
+  transform: translateY(0.9em)
+}
+.circle3{
+  transform: translateY(0.9em)
+}
+.circle4{
+  transform: translateY(0.9em)
+}
