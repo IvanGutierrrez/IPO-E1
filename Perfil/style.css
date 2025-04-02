@@ -797,3 +797,7 @@
   font-weight: var(--m3-label-large-font-weight, 500);
   position: relative;
 }
+
+.image-7{
+  transform: translateY(-0.5em)
+}

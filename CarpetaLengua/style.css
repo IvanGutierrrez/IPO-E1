@@ -1133,3 +1133,7 @@
   top: 50px;
   overflow: visible;
 }
+
+.image-7{
+  transform: translateY(-0.5em)
+}

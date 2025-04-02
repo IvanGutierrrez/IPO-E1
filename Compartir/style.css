@@ -1195,3 +1195,7 @@
   top: 50%;
   overflow: visible;
 }
+
+.image-7{
+  transform: translateY(-0.5em)
+}

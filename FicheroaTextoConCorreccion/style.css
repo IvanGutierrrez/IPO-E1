@@ -835,3 +835,6 @@
   transform: translate(-78px,-83px);
 }
 
+.image-7{
+  transform: translateY(-0.5em)
+}

@@ -961,3 +961,7 @@
   width: 330px;
   height: 68px;
 }
+
+.image-7{
+  transform: translateY(-0.5em)
+}
