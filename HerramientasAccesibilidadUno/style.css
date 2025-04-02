@@ -1113,3 +1113,7 @@
 .image-13{
   transform: translateY(-0.5em)
 }
+
+.badges{
+  transform: translate(-0.5em, -0.5em);
+}
